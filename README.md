@@ -7,7 +7,7 @@ I am Aditya Kumar Singh. A MERN & Flutter developer from India.
 - 🌱 I’m currently learning MERN Development
 - 📫 How to reach me: 19103197adityakumarsingh@gmail.com
 
-### <img align='right' src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="230">
+### <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 
 ### Profile Stats ⭐️
 
